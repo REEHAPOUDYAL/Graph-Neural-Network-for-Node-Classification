@@ -1,4 +1,4 @@
-# Graph Convolutional Network (GCN) for Node Classification - Wiki-CS Dataset
+# Graph Convolutional Network for Node Classification - Wiki-CS Dataset
 
 ## Overview
 This project implements a **Graph Convolutional Network (GCN)** to perform **node classification** on the **Wiki-CS dataset**, which contains Wikipedia computer science articles connected through hyperlinks.
@@ -74,8 +74,8 @@ The GCN model successfully captured relational dependencies in the Wiki-CS hyper
 ## Technologies Used
 - Python
 - PyTorch
-- PyTorch Geometric (GCNConv)
-- Matplotlib (visualization)
-- t-SNE (embedding visualization)
+- PyTorch Geometric 
+- Matplotlib 
+- t-SNE 
 
 ---
